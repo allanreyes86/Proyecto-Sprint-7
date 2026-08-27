@@ -17,3 +17,7 @@ La aplicación proporciona herramientas interactivas que permiten al usuario gen
 *   **Pandas** (Manipulación y carga del conjunto de datos `.csv`)
 *   **Plotly Express** (Creación de gráficos interactivos y dinámicos)
 *   **Render** (Plataforma de despliegue en la nube)
+
+# Cuadro de Mandos: Análisis del Mercado de Autos Usados
+
+> **Enlace de la aplicación desplegada:** [Ver aplicación en Render] https://proyecto-sprint-7-2-3pwx.onrender.com
