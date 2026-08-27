@@ -3,7 +3,7 @@ import plotly.express as px
 import streamlit as st
 
 # 1. Leer el archivo CSV desde la raíz del proyecto
-car_data = pd.read_csv("notebooks/vehicles_us.csv")
+car_data = pd.read_csv("vehicles_us.csv")
 
 # 2. Título principal de la aplicación web
 st.header("Cuadro de Mandos: Análisis del Mercado de Autos Usados en Estados Unidos")
