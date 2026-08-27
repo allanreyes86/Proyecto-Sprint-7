@@ -20,4 +20,6 @@ La aplicación proporciona herramientas interactivas que permiten al usuario gen
 
 # Cuadro de Mandos: Análisis del Mercado de Autos Usados
 
-> **Enlace de la aplicación desplegada:** [Ver aplicación en Render] https://proyecto-sprint-7-2-3pwx.onrender.com
+**GitHub:** https://github.com/allanreyes86/Proyecto-Sprint-7.git
+
+**Render:** https://proyecto-sprint-7-2-3pwx.onrender.com
